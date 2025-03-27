@@ -28,10 +28,9 @@ GPU-accelerated rendering engine built from scratch using C++ and CUDA. It imple
 - Using CUDA: 12.577 seconds
 
 ## Documentation
-[Download project post-mortem](https://1283af7d-441a-42c0-8e0d-49732d6d6de1.filesusr.com/ugd/1b1167_56d6af0682ca4c48b920627cea9312db.pdf)
+[Download Post-mortem](https://github.com/user-attachments/files/19477026/Post-mortem.CUDA.Raytracer.2.pdf)
 
-[Download project presentation](https://github.com/user-attachments/files/18215102/Presentation.CUDA.Raytracer.pptx)
-
+[Download project presentation](https://github.com/user-attachments/files/19477030/Presentation.CUDA.Raytracer.1.pptx)
 
 ## Future work
 - Improve bandwidth usage by performing parallel memory transfers.
